@@ -55,7 +55,7 @@ learning nodejs
    <img width="50%" height="100%" src="https://user-images.githubusercontent.com/67315764/98403702-ba7ab600-20ac-11eb-9657-1f4bf7b83254.png"></img>
    
    ⑷ 이클립스가 실행되면 메뉴 상단 File - new - Node.js Project를 하면 프로젝트를 생성할 수 있다. (Other에서 찾는 방법도 있다.)
-      프로젝트 생성 시 Teamplate to use에서 none/empty를 제외한 나머지를 선택하게 되면 자동으로 node.js Web server를 만들어준다.   
+      프로젝트 생성 시 Teamplate to use에서 Hello World를 선택하게 되면 자동으로 node.js Web server를 만들어준다.   
       
    <img width="50%" height="100%" src="https://user-images.githubusercontent.com/67315764/98405122-10e8f400-20af-11eb-816d-39eab5350979.PNG"></img>
    
@@ -67,9 +67,12 @@ learning nodejs
    
    <img width="200%" src="https://user-images.githubusercontent.com/67315764/98405652-f82d0e00-20af-11eb-80eb-20ff684b151c.png"></img>
    
-   ⑺ 이 서버 주소를 http://127.0.0.1:1337/ 웹브라우저를 이용하여 주소창에 치게 되면 아래와 같은 Hello world 라는 표시가 뜨게 된다. 끝.
+   ⑺ 이 서버 주소를 http://127.0.0.1:1337/ 웹브라우저를 이용하여 주소창에 치게 되면 아래와 같은 Hello world 라는 표시가 뜨게 된다.
    
    <img width="200%" src="https://user-images.githubusercontent.com/67315764/98406163-d41dfc80-20b0-11eb-9952-89ae354f429c.png"></img>
+   
+   
+   nodejs 웹서버 관련 사항은 추후 업데이트 할 예정임. 2020-11-07 05:02 토요일 새벽
    
    
    
